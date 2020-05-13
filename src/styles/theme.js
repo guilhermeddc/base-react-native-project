@@ -1,7 +1,7 @@
 export default {
   colors: {
-    primary: '#7129c1',
+    primary: '#c3c3c3',
     white: '#fff',
-    buttonColor: '#3b9eff',
+    buttonColor: '#333',
   },
 };
